@@ -44,7 +44,7 @@ export default function Section2() {
                                     <div className="post-entry-1">
                                         <a href="single-post.html"><img src="/assert/img/64131.jpg" alt="" className="img-fluid" /></a>
                                         <div className="post-meta"><span className="date">Tech</span> <span className="mx-1"></span> <span>Mar 1st 2</span></div>
-                                        <h2><a href="single-post.html">As the sun dips below the horizon, painting the sky in hues of fiery gold, we're reminded that even endings can be breathtakingly beautiful. 🌅 #SunsetSplendor</a></h2>
+                                        <h2><a href="single-post.html">As the sun dips below the horizon, painting the sky in hues of fiery gold, were reminded that even endings can be breathtakingly beautiful. 🌅 #SunsetSplendor</a></h2>
                                     </div>
                                    
                                 </div>
