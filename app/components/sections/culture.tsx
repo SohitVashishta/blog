@@ -18,7 +18,7 @@ export default function Culture(){
               </a>
               <div>
                 <div className="post-meta"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
-                <h3><a href="single-post.html">Sacred serenity in Manali's heart, where Hidimba Devis temple whispers tales of ancient devotion amidst towering cedars.</a></h3>
+                <h3><a href="single-post.html">Sacred serenity in Manalis heart, where Hidimba Devis temple whispers tales of ancient devotion amidst towering cedars.</a></h3>
                 <p>The Hidimba Devi Temple, nestled in the picturesque hills of Manali, Himachal Pradesh, is a sacred shrine dedicated to Hidimba Devi, a character from the Indian epic Mahabharata.
                    Constructed in 1553, this unique temple stands out for its exquisite wooden architecture, showcasing intricate carvings and a pagoda-style roof. Surrounded by dense cedar forests, the temple offers a tranquil oasis for spiritual seekers and visitors alike. Legend has it that Hidimba Devi meditated here, seeking penance for her past deeds, making it a place of immense significance in Hindu mythology. Today, it remains a symbol of devotion and cultural heritage, drawing pilgrims and tourists to experience its serene ambiance and divine connection.</p>
                 
