@@ -29,7 +29,7 @@ export default function LifeStyle(){
                 <div className="post-entry-1">
                   <a href="single-post.html"><img src="assert/img/IMG_0962.JPG" alt="" className="img-fluid"/></a>
                   <div className="post-meta"><span className="date">Lifestyle</span> <span className="mx-1"></span> <span>Jul 5th 22</span></div>
-                  <h2><a href="single-post.html">"Every drop of sweat tells a story of perseverance. 💦 #GymBoySaga</a></h2>
+                  <h2><a href="single-post.html">Every drop of sweat tells a story of perseverance. 💦 #GymBoySaga</a></h2>
                 </div>
                 <div className="post-entry-1">
                   <a href="single-post.html"><img src="assert/img/IMG_2900.JPG" alt="" className="img-fluid"/></a>
@@ -52,7 +52,7 @@ export default function LifeStyle(){
                   <a href="single-post.html"><img src="assert/img/77990.jpg" alt="" className="img-fluid"/></a>
                   <div className="post-meta"><span className="date">Lifestyle</span> <span className="mx-1"></span> <span>Mar 1st 22</span></div>
                   <h2><a href="single-post.html">
-"Bathed in the sacred waters of the Ganga, cleansing body and soul in the embrace of divine purity. 🙏💧 #GangaBlessings"
+Bathed in the sacred waters of the Ganga, cleansing body and soul in the embrace of divine purity. 🙏💧 #GangaBlessings
 
 
 
@@ -62,7 +62,7 @@ export default function LifeStyle(){
                 <div className="post-entry-1">
                   <a href="single-post.html"><img src="assert/img/77992.jpg" alt="" className="img-fluid"/></a>
                   <div className="post-meta"><span className="date">Lifestyle</span> <span className="mx-1"></span> <span>Jul 5th 22</span></div>
-                  <h2><a href="single-post.html">"Immersed in the tranquil flow of the Ganga, finding solace and renewal amidst her eternal currents. 🌊🕉️ #GangaSerenity"</a></h2>
+                  <h2><a href="single-post.html">Immersed in the tranquil flow of the Ganga, finding solace and renewal amidst her eternal currents. 🌊🕉️ #GangaSerenity</a></h2>
                 </div>
               </div>
               <div className="col-lg-4">
