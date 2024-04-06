@@ -87,7 +87,7 @@ export default function Culture(){
               <span className="author mb-3 d-block">Jenny Wilson</span>
             </div>
           </div>
-        </div>
+        
       </div>
     </section>
         </>
