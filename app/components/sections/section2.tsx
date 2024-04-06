@@ -9,7 +9,7 @@ export default function Section2() {
                                 <a href="single-post.html"><img src="/assert/img/IMG_20210321_072817.jpg" alt="" className="img-fluid" /></a>
                                 <div className="post-meta"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th 22</span></div>
                                 <h2><a href="single-post.html">Savoring the tranquility of a misty morning in Mussoorie with a cup of steaming tea. ☕️🍃 </a></h2>
-                                <p className="mb-4 d-block">Nestled in the embrace of Mussoorie's misty mornings, there's a special magic in sipping tea as the world wakes up. With each gentle sip, the tranquil beauty of the Himalayas whispers its secrets, inviting me to pause, breathe, and embrace the serenity of the moment. ☕️🏔️ #MorningBliss</p>
+                                <p className="mb-4 d-block">Nestled in the embrace of Mussoories misty mornings, theres a special magic in sipping tea as the world wakes up. With each gentle sip, the tranquil beauty of the Himalayas whispers its secrets, inviting me to pause, breathe, and embrace the serenity of the moment. ☕️🏔️ #MorningBliss</p>
 
                                
                             </div>
