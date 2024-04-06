@@ -46,7 +46,7 @@ export default function Footer() {
                                         <a href="single-post.html" className="d-flex align-items-center">
                                             <img src="assert/img/post-sq-1.jpg" alt="" className="img-fluid me-3" />
                                             <div>
-                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th '22</span></div>
+                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th</span></div>
                                                 <span>5 Great Startup Tips for Female Founders</span>
                                             </div>
                                         </a>
@@ -56,7 +56,7 @@ export default function Footer() {
                                         <a href="single-post.html" className="d-flex align-items-center">
                                             <img src="assert/img/post-sq-2.jpg" alt="" className="img-fluid me-3" />
                                             <div>
-                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th '22</span></div>
+                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
                                                 <span>What is the son of Football Coach John Gruden, Deuce Gruden doing Now?</span>
                                             </div>
                                         </a>
@@ -66,7 +66,7 @@ export default function Footer() {
                                         <a href="single-post.html" className="d-flex align-items-center">
                                             <img src="assert/img/post-sq-3.jpg" alt="" className="img-fluid me-3" />
                                             <div>
-                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th '22</span></div>
+                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
                                                 <span>Life Insurance And Pregnancy: A Working Mom’s Guide</span>
                                             </div>
                                         </a>
@@ -76,7 +76,7 @@ export default function Footer() {
                                         <a href="single-post.html" className="d-flex align-items-center">
                                             <img src="assert/img/post-sq-4.jpg" alt="" className="img-fluid me-3" />
                                             <div>
-                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th '22</span></div>
+                                                <div className="post-meta d-block"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
                                                 <span>How to Avoid Distraction and Stay Focused During Video Calls?</span>
                                             </div>
                                         </a>
