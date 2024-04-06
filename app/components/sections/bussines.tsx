@@ -18,7 +18,7 @@ export default function Bussiness() {
                 </a>
                 <div>
                   <div className="post-meta"><span className="date">Business</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
-                  <h3><a href="single-post.html">""</a></h3>
+                  <h3><a href="single-post.html"></a></h3>
                   <p>Gulmarg, located in the Indian-administered union territory of Jammu and Kashmir, is renowned for its breathtaking natural beauty and adventure opportunities. Situated at an altitude of around 8,694 feet (2,650 meters) above sea level, Gulmarg
                     is known for its pristine landscapes, lush meadows, and majestic Himalayan vistas.
                     During winter, Gulmarg transforms into a winter wonderland, attracting skiers and snowboarders from around the world. The Gulmarg Ski Resort offers some of the best skiing and snowboarding experiences in the Indian subcontinent, with powdery snow and thrilling slopes.</p>
@@ -31,7 +31,7 @@ export default function Bussiness() {
                   <div className="post-entry-1 border-bottom">
                     <a href="single-post.html"><img src="assert/img/DSC_4935.JPG" alt="" className="img-fluid" /></a>
                     <div className="post-meta"><span className="date">Business</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
-                    <h2 className="mb-2"><a href="single-post.html">"Immersed in the timeless allure of Gulmarg, where every corner reveals a new chapter of Kashmir's mesmerizing beauty. 🏞️❤️ #GulmargDiaries #KashmirMagic"</a></h2>
+                    <h2 className="mb-2"><a href="single-post.html">Immersed in the timeless allure of Gulmarg, where every corner reveals a new chapter of Kashmirs mesmerizing beauty. 🏞️❤️ #GulmargDiaries #KashmirMagic</a></h2>
                    </div>
 
                  
@@ -40,7 +40,7 @@ export default function Bussiness() {
                   <div className="post-entry-1">
                     <a href="single-post.html"><img src="assert/img/DSC_5091.JPG" alt="" className="img-fluid" /></a>
                     <div className="post-meta"><span className="date">Business</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
-                    <h2 className="mb-2"><a href="single-post.html">Lost in the enchanting beauty of Gulmarg, Kashmir, where snow-capped peaks and emerald valleys weave a tapestry
+                    <h2 className="mb-2"><a href=Single-post.html">Lost in the enchanting beauty of Gulmarg, Kashmir, where snow-capped peaks and emerald valleys weave a tapestry
                     of unparalleled splendor. ❄️🏔️ #GulmargGems #KashmiriParadise</a></h2>
                     </div>
                 </div>
