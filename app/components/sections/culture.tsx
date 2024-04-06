@@ -35,7 +35,7 @@ export default function Culture(){
                   <span className="author mb-3 d-block">n</span>
                   <p className="mb-4 d-block"></p>
                 </div>
-
+</div>
                 
               </div>
               <div className="col-lg-8">
