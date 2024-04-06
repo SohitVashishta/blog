@@ -40,7 +40,7 @@ export default function Bussiness() {
                   <div className="post-entry-1">
                     <a href="single-post.html"><img src="assert/img/DSC_5091.JPG" alt="" className="img-fluid" /></a>
                     <div className="post-meta"><span className="date">Business</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
-                    <h2 className="mb-2"><a href=Single-post.html">Lost in the enchanting beauty of Gulmarg, Kashmir, where snow-capped peaks and emerald valleys weave a tapestry
+                    <h2 className="mb-2"><a href="Single-post.html">Lost in the enchanting beauty of Gulmarg, Kashmir, where snow-capped peaks and emerald valleys weave a tapestry
                     of unparalleled splendor. ❄️🏔️ #GulmargGems #KashmiriParadise</a></h2>
                     </div>
                 </div>
