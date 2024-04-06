@@ -31,7 +31,7 @@ export default function Culture(){
                   <a href="single-post.html"><img src="assert/img/IMG_20210322_115302.jpg" alt="" className="img-fluid"/></a>
                   <div className="post-meta"><span className="date">Culture</span> <span className="mx-1"></span> <span>Jul 5th </span></div>
                   <h2 className="mb-2"><a href="single-post.html">Exploring the hidden gems of Mussoorie, where the mystical Vysh Nadi whispers secrets
-                   of natures allure amidst the Himalayan foothills. 🌿💧 #VyshNadi #MussoorieMystique"</a></h2>
+                   of natures allure amidst the Himalayan foothills. 🌿💧 #VyshNadi #MussoorieMystique</a></h2>
                   <span className="author mb-3 d-block">n</span>
                   <p className="mb-4 d-block"></p>
                 </div>
